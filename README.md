@@ -1,5 +1,5 @@
 # 👋🏼 Hello, I’m Denis
-I am a 20 year old student developer based in Romania, passionate about making computers go beep boop.
+I am a 21 year old student developer based in Romania, passionate about making computers go beep boop.
 
 - *currently learning and having fun with:* 🟢 VueJS 
 - *if you wish to contact me, please 💬`dm` me on [LinkedIn](https://www.linkedin.com/in/denis-ursut-66b60b230/)*
